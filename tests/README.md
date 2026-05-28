@@ -15,7 +15,7 @@ The automation test cases were generated using GitHub Copilot with the help of c
 ```text id="m7x2qp"
 textcontext/apicontext.txt
 ```
-Promot for test case given as below -
+Prompt for test case given as below -
 
 ```
 Generate a Playwright API tests for following scenario
