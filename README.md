@@ -140,6 +140,14 @@ npx playwright test
 * AI-assisted self-healing automation
 
 ---
+## Tests folder
+We can add folder/ Gen AI give folder structure for API tests as below 
+
+- `tests/api` - API test specs (e.g., product.spec.ts)
+- `tests/helpers` - test helpers and fixtures
+- `tests/mocks` - mock responses for unit tests
+- `tests/data` - static test data (JSON files)
+---
 
 ## Author
 
